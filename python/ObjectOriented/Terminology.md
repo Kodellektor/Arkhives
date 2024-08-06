@@ -9,5 +9,4 @@
 
 **Method:**  *A function defined inside a class. A method always has at least one parameter, which is usually named self*
 
-Instantiation Variable
-: In a method, any variable whose name begins, by any convention, with the prefix self. (For example self.x). Instance variables have object scope (Global vs Object Scope)
+**Instantiation Variable:** *In a method, any variable whose name begins, by any convention, with the prefix self. (For example self.x). Instance variables have object scope (Global vs Object Scope)*
